@@ -1,0 +1,19 @@
+@media (max-width: 600px){
+    .text-1-location{
+        font-size:16px;
+        margin: 10px 0 10px 0;
+        font-weight: bold;
+        line-height:20px;
+        text-align: center;
+    }
+
+
+    .text-2-location{
+        
+        display: none;
+    }
+
+    .text-byRick{
+      display: none;
+    }
+}

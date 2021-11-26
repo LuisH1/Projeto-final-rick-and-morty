@@ -1,0 +1,89 @@
+
+
+@media (max-width:1100px){
+    .main-fanfics{
+        flex-direction: column;
+        align-items: center;
+    }
+
+   
+    .container-posts{
+        width:350px;
+        height: 450px;
+    }
+}
+
+@media (max-width:1270px){
+    .cards-fanfics{
+        width:120px;
+        padding: 7px;
+        margin-top: 6px;
+    }
+}
+
+@media (max-width:570px){
+    .container-posts{
+        width:280px;
+        height: 220px;
+        margin-top: 50px;
+    }
+
+    .nav-forum{
+        width: 250px;
+        gap: 1.2;
+    }
+
+    .container-forum{
+        width: 100%;
+    }
+
+    .container-Carousel{
+        width: 100%;
+        align-items: center;
+    }
+    .title-carousel{
+        width: 280px;
+        font-size: 18px;
+        text-align: center;
+    }
+
+  
+
+
+}
+
+
+
+/* responsividade create */
+
+
+@media (max-width:670px){
+    .textarea{
+       
+    }
+
+    .insert-text{
+        width: 350px;
+        height: 250px;
+    }
+
+    .insert-text-title{
+        width:200px;
+    }
+}
+
+
+
+@media (max-width:390px){
+    .insert-text{
+        width: 290px;
+        height: 200px;
+    }
+
+    .insert-text-title{
+        width:160px;
+        padding: .2rem;
+        font-size: 17px;
+    }
+
+}
